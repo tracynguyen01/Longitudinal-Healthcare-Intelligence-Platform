@@ -1,0 +1,42 @@
+{
+  "patient_id": "P001",
+  "patient_name": "John Carter",
+  "visits": [
+    {
+      "visit_date": "2025-01-10",
+      "symptoms": [
+        "mild headache",
+        "fatigue"
+      ],
+      "medications": [
+        "paracetamol"
+      ],
+      "blood_pressure": "128/82",
+      "clinical_note": "Patient reports mild headache for two weeks with increasing fatigue. No neurological deficits observed."
+    },
+    {
+      "visit_date": "2025-02-18",
+      "symptoms": [
+        "dizziness",
+        "blurred vision"
+      ],
+      "medications": [
+        "ibuprofen"
+      ],
+      "blood_pressure": "148/94",
+      "clinical_note": "Patient reports worsening dizziness and occasional blurred vision. Blood pressure elevated during consultation."
+    },
+    {
+      "visit_date": "2025-03-25",
+      "symptoms": [
+        "balance issues",
+        "persistent dizziness"
+      ],
+      "medications": [
+        "amlodipine"
+      ],
+      "blood_pressure": "156/98",
+      "clinical_note": "Symptoms progressing over the past month. MRI recommended due to worsening neurological presentation."
+    }
+  ]
+}
